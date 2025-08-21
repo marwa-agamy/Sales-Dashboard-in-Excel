@@ -1,7 +1,8 @@
 # 📊 Sales Dashboard in Excel
 
 ## Preview  
-![Dashboard Screenshot](Sales Dashboard.png)  
+Get a clear overview of sales performance with automated data transformation, interactive filters, and visual KPIs.
+This dashboard is built entirely in Excel using Power Query and Power Pivot, enabling real-time insights with minimal manual effort.
 
 ## 🔧 **Features**  
 ✅ **Power Query** – Automated data cleaning and transformation  
